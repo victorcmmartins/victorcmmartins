@@ -12,7 +12,7 @@
   <img align="center" alt="Roooy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Roooy-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Roooy-MySql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <a href="https://open.spotify.com/artist/5c58doF3yXtAb5c8y6C4FH" target="_blank"> <img height="150em" align="right" alt="Rafa-yoda" src="https://i1.sndcdn.com/artworks-cRT7jtwsffrx-0-t500x500.jpg"/>
+  <a href="https://open.spotify.com/artist/5c58doF3yXtAb5c8y6C4FH" target="_blank"> <img height="150em" align="right" alt="Roooy-PsychoRoy" src="https://i1.sndcdn.com/artworks-cRT7jtwsffrx-0-t500x500.jpg"/>
   
 </div>
   
