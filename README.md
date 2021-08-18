@@ -2,8 +2,8 @@
 #### Seja bem vindo ao meu amontoado de códigos, sinta-se em casa.
  <div>
   <a href="https://github.com/victorcmmartins">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorcmmartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcmmartins&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorcmmartins&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcmmartins&layout=compact&langs_count=7&theme=radical"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Roooy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,7 @@
   <img align="center" alt="Roooy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Roooy-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Roooy-MySql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img height="140em" align="right" alt="Rafa-yoda" src="https://i1.sndcdn.com/artworks-cRT7jtwsffrx-0-t500x500.jpg">
+  <img height="150em" align="right" alt="Rafa-yoda" src="https://i1.sndcdn.com/artworks-cRT7jtwsffrx-0-t500x500.jpg">
   
 </div>
   
