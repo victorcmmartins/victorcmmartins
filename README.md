@@ -2,7 +2,7 @@
 #### Seja bem vindo ao meu amontoado de códigos, sinta-se em casa.
  <div>
   <a href="https://github.com/victorcmmartins">
-  <img height="500" width="3200" src="https://github-readme-stats.vercel.app/api?username=victorcmmartins&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="390" width="3200" src="https://github-readme-stats.vercel.app/api?username=victorcmmartins&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
   <!- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcmmartins&layout=compact&langs_count=7&theme=radical"/>
 </div>
  <div style="display: inline_block"><br>
